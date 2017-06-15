@@ -1,0 +1,68 @@
+2017-06-13T16:03:05.362962741 0.063721s notice: Recursively removing directory /home/sajjad/Desktop/tepa-complete/rethinkdb_data/tmp
+2017-06-13T16:03:05.392983011 0.093740s notice: Initializing directory /home/sajjad/Desktop/tepa-complete/rethinkdb_data
+2017-06-13T16:03:05.393083473 0.093841s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/sajjad/Desktop/tepa-complete/rethinkdb_data' did not already exist or is empty.)
+2017-06-13T16:03:05.393173836 0.093931s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-06-13T16:03:05.418651688 0.119412s notice: Running on Linux 4.4.0-79-generic x86_64
+2017-06-13T16:03:05.418713130 0.119470s notice: Loading data from directory /home/sajjad/Desktop/tepa-complete/rethinkdb_data
+2017-06-13T16:03:05.737949925 0.438707s info: Automatically using cache size of 480 MB
+2017-06-13T16:03:05.770104251 0.470861s notice: Listening for intracluster connections on port 29015
+2017-06-13T16:03:05.808023531 0.508781s notice: Listening for client driver connections on port 28015
+2017-06-13T16:03:05.808239351 0.508996s notice: Listening for administrative HTTP connections on port 8080
+2017-06-13T16:03:05.808241009 0.508998s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T16:03:05.808243427 0.509000s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T16:03:05.808243988 0.509001s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T16:03:05.808248028 0.509005s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-13T16:03:05.808251511 0.509008s notice: Server ready, "sajjad_Inspiron_3442_i3b" 6b14463e-e160-42cf-b6e3-cd9a184a11e7
+2017-06-13T16:03:06.015681942 0.716439s warn: Problem when checking for new versions of RethinkDB: HTTP request to update.rethinkdb.com failed.
+2017-06-13T16:15:13.533804939 728.234562s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-06-13T16:15:13.533928462 728.234686s notice: Shutting down client connections...
+2017-06-13T16:15:13.534018057 728.234775s notice: All client connections closed.
+2017-06-13T16:15:13.534021552 728.234778s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-06-13T16:15:13.573316159 728.274073s notice: Storage engine shut down.
+2017-06-13T16:15:35.501170178 0.401732s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-06-13T16:15:35.507213231 0.407781s notice: Running on Linux 4.4.0-79-generic x86_64
+2017-06-13T16:15:35.507351730 0.407913s notice: Loading data from directory /home/sajjad/Desktop/tepa-complete/rethinkdb_data
+2017-06-13T16:15:35.579197236 0.479759s info: Automatically using cache size of 194 MB
+2017-06-13T16:15:35.579944101 0.480506s notice: Listening for intracluster connections on port 29015
+2017-06-13T16:15:35.581501446 0.482063s notice: Listening for client driver connections on port 28015
+2017-06-13T16:15:35.581768793 0.482330s notice: Listening for administrative HTTP connections on port 8080
+2017-06-13T16:15:35.581778222 0.482339s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T16:15:35.581782604 0.482344s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T16:15:35.581788761 0.482350s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T16:15:35.581792400 0.482353s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-13T16:15:35.581799447 0.482360s notice: Server ready, "sajjad_Inspiron_3442_i3b" 6b14463e-e160-42cf-b6e3-cd9a184a11e7
+2017-06-13T16:35:05.692141946 1170.592703s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-06-13T16:35:05.720840193 1170.621402s notice: Shutting down client connections...
+2017-06-13T16:35:05.721169523 1170.621732s notice: All client connections closed.
+2017-06-13T16:35:05.721180341 1170.621743s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-06-13T16:35:06.135290895 1171.035854s notice: Storage engine shut down.
+2017-06-13T18:02:43.310339570 0.469193s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-06-13T18:02:43.491912578 0.650768s notice: Running on Linux 4.4.0-79-generic x86_64
+2017-06-13T18:02:43.491983732 0.650837s notice: Loading data from directory /home/sajjad/Desktop/tepa-complete/rethinkdb_data
+2017-06-13T18:02:43.678648228 0.837501s info: Automatically using cache size of 224 MB
+2017-06-13T18:02:43.710248964 0.869102s notice: Listening for intracluster connections on port 29015
+2017-06-13T18:02:43.748256790 0.907110s notice: Listening for client driver connections on port 28015
+2017-06-13T18:02:43.748421984 0.907275s notice: Listening for administrative HTTP connections on port 8080
+2017-06-13T18:02:43.748423267 0.907276s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T18:02:43.748425215 0.907278s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T18:02:43.748425788 0.907278s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T18:02:43.748429571 0.907282s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-13T18:02:43.748433019 0.907286s notice: Server ready, "sajjad_Inspiron_3442_i3b" 6b14463e-e160-42cf-b6e3-cd9a184a11e7
+2017-06-13T18:39:11.426276848 2188.585130s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-06-13T18:39:11.439328702 2188.598182s notice: Shutting down client connections...
+2017-06-13T18:39:11.439379572 2188.598232s notice: All client connections closed.
+2017-06-13T18:39:11.439381656 2188.598234s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-06-13T18:39:11.536652306 2188.695505s notice: Storage engine shut down.
+2017-06-13T18:39:13.108832387 0.497684s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-06-13T18:39:13.139777294 0.528632s notice: Running on Linux 4.4.0-79-generic x86_64
+2017-06-13T18:39:13.139854626 0.528706s notice: Loading data from directory /home/sajjad/Desktop/tepa-complete/rethinkdb_data
+2017-06-13T18:39:13.230653815 0.619505s info: Automatically using cache size of 100 MB
+2017-06-13T18:39:13.230806693 0.619658s warn: Cache size is very low and may impact performance.
+2017-06-13T18:39:13.231935498 0.620787s notice: Listening for intracluster connections on port 29015
+2017-06-13T18:39:13.233621930 0.622474s notice: Listening for client driver connections on port 28015
+2017-06-13T18:39:13.233789552 0.622641s notice: Listening for administrative HTTP connections on port 8080
+2017-06-13T18:39:13.233795335 0.622647s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T18:39:13.233799306 0.622651s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T18:39:13.233803233 0.622655s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T18:39:13.233805686 0.622657s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-13T18:39:13.233809471 0.622661s notice: Server ready, "sajjad_Inspiron_3442_i3b" 6b14463e-e160-42cf-b6e3-cd9a184a11e7
