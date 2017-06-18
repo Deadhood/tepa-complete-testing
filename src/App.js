@@ -16,13 +16,13 @@ class App extends Component {
             <div>
               <ul>
                 <button><Link to='/admin'>ফর্ম</Link></button>
-                <button><Link to='/details'>তথ্য</Link></button>
+                <button><Link to='/view'>তথ্য</Link></button>
               </ul>
 
               <hr />
 
               <Route path='/admin' component={BalagForm} />
-              <Route path='/details' component={Details} />
+              <Route path='/view' component={Details} />
             </div>
           </Router>
 

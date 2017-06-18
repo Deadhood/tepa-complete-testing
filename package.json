@@ -1,5 +1,5 @@
 {
-  "name": "tepa-complete",
+  "name": "tepa-complete-testing",
   "version": "1.0.0",
   "description": "Tepa backend",
   "main": "index.js",
@@ -61,7 +61,7 @@
     "html-webpack-plugin": "^2.28.0",
     "node-sass": "^4.5.3",
     "pug-loader": "^2.3.0",
-    "react-hot-loader": "next",
+    "react-hot-loader": "^3.0.0-beta.7",
     "resolve-url-loader": "^2.0.2",
     "sass-loader": "^6.0.5",
     "style-loader": "^0.18.2",

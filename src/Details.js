@@ -25,12 +25,3 @@ class Details extends Component {
 }
 
 export default inject('dataStore')(observer(Details))
-
-
-// fetch('/view', {
-//         method: 'get',
-//         headers: {
-//           'Content-Type': 'application/json'
-//         },
-//         credentials: 'same-origin'
-//       })
