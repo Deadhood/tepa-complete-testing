@@ -65,7 +65,7 @@
     "resolve-url-loader": "^2.0.2",
     "sass-loader": "^6.0.5",
     "style-loader": "^0.23.1",
-    "webpack": "^2.6.1",
+    "webpack": "^2.7.0",
     "webpack-dev-server": "^2.4.5"
   }
 }
