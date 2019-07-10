@@ -66,6 +66,6 @@
     "sass-loader": "^6.0.5",
     "style-loader": "^0.23.1",
     "webpack": "^2.7.0",
-    "webpack-dev-server": "^3.1.11"
+    "webpack-dev-server": "^3.7.2"
   }
 }
