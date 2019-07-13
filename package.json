@@ -28,7 +28,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
-    "bootswatch": "^3.3.7",
+    "bootswatch": "^4.3.1",
     "connect-ensure-login": "^0.1.1",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.0.0",
